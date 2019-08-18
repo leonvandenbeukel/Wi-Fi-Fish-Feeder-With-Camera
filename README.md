@@ -2,7 +2,7 @@
 
 ### 3D Printing
 
-Use these settings: 0.2 / 10% infill. 
+Use these settings: 0.2 / 10% infill. Support is needed for some pieces.
 
 ### Schema
 
