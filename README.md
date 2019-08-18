@@ -20,7 +20,7 @@ First install the ESP32 library.
 
 Use an FTDI board and connect RX of the FTDI board to TX of the ESP32 board, TX (FTDI) to RX (ESP32) together with GND and 3.3V. If you're having trouble with the ESP32 (horizontal lines on the camera or "brownout detected" errors, you can try connecting an external 5V power supply to the 5V pin of the ESP32 (and connect GND's).  
 
-Open the .ino file from this repository and change the following setttings:
+Open the "WiFi-Fish-Feeder-With-Camera.ino" file from this repository and change the following setttings:
 
 Tools > Board, select ESP32 Wrover Module
 Tools > Port, select the COM port 
