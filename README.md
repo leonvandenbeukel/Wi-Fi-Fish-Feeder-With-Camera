@@ -40,7 +40,5 @@ To upload the code, connect GPIO0 to GND and press the reset button on the devic
 
 ### YouTube video
 
-TODO:
-
 <a href="https://youtu.be/dWhmNZHbLFU" target="_blank"><img src="https://img.youtube.com/vi/dWhmNZHbLFU/0.jpg" 
 alt="Click to view: Fish Feeder" width="500" border="1" /></a>
