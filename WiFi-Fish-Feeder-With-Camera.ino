@@ -13,8 +13,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "*";
-const char* password = "*";
+const char* ssid = "*** your ssid here ***";
+const char* password = "*** your wi-fi password here ***";
 
 void startCameraServer();
 void checkFeederTimer();
