@@ -1,0 +1,5 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://gchq.github.io/CyberChef/#recipe=Gzip('Dynamic%20Huffman%20Coding','index_ov2640_html_gz_len','',false)To_Hex('0x')Split('0x',',0x')Find_/_Replace(%7B'option':'Regex','string':'%5E,'%7D,'',true,false,true,false)
