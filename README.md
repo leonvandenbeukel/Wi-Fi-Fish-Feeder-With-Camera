@@ -1,6 +1,6 @@
 # Wi-Fi Fish Feeder With Camera
 
-### Parts
+### Components
 
 You need the following components:
 
