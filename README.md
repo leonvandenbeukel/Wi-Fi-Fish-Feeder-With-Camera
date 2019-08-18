@@ -1,5 +1,15 @@
 # Wi-Fi Fish Feeder With Camera
 
+### Parts
+
+You need the following components:
+
+* An ESP32-Cam module with Wi-Fi Antenna
+* A large continuous moving servo (it might also work with the more popular tiny MG90 but then you would have to modify it for continuous rotation and design another servo mount)
+* Micro usb pcb
+* 5V power adapter
+* Wires
+
 ### 3D Printing
 
 Use these settings: 0.2 / 10% infill. Support is needed for some pieces.
