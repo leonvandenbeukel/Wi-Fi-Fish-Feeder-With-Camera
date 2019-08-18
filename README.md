@@ -28,3 +28,9 @@ In Tools > Partition Scheme, select "Huge APP (3MB No OTA)"
 
 To upload the code, connect GPIO0 to GND and press the reset button on the device. Then hit upload in the Arduino IDE. After succesfully uploading press the reset button again and check the serial monitor to find out which IP Address it get's assigned. Browse to that IP and check if everything works.
 
+### YouTube video
+
+TODO:
+
+<a href="https://youtu.be/24RslguGy58" target="_blank"><img src="https://img.youtube.com/vi/24RslguGy58/0.jpg" 
+alt="Click to view: Homemade CNC with 3D printed parts V2" width="500" border="1" /></a>
