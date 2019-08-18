@@ -1,4 +1,4 @@
-# WiFi-Fish-Feeder-With-Camera
+# Wi-Fi Fish Feeder With Camera
 
 ### 3D Printing
 
