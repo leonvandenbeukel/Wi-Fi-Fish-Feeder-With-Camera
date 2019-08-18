@@ -8,6 +8,7 @@ You need the following components:
 * A large continuous rotating servo (it might also work with the more popular tiny MG90 but then you would have to modify it for continuous rotation and design another servo mount)
 * Micro usb pcb
 * 5V power adapter
+* A regular 608 bearing 
 * Wires
 
 ### 3D Printing
