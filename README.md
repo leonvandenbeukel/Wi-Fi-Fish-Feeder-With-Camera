@@ -9,6 +9,8 @@ You need the following components:
 * Micro usb pcb
 * 5V power adapter
 * A regular 608 bearing 
+* M3 nuts, bolts and washers
+* 15 * 15 mm aluminium rod (optional)
 * Wires
 
 ### 3D Printing
