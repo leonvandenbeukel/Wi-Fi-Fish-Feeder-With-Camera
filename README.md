@@ -22,9 +22,9 @@ Use an FTDI board and connect RX of the FTDI board to TX of the ESP32 board, TX 
 
 Open the "WiFi-Fish-Feeder-With-Camera.ino" file from this repository and change the following setttings:
 
-Tools > Board, select ESP32 Wrover Module
-Tools > Port, select the COM port 
-In Tools > Partition Scheme, select "Huge APP (3MB No OTA)"
+* Tools > Board, select ESP32 Wrover Module
+* Tools > Port, select the COM port 
+* In Tools > Partition Scheme, select "Huge APP (3MB No OTA)"
 
 To upload the code, connect GPIO0 to GND and press the reset button on the device. Then hit upload in the Arduino IDE. After succesfully uploading press the reset button again and check the serial monitor to find out which IP Address it get's assigned. Browse to that IP and check if everything works.
 
